@@ -1,5 +1,4 @@
-# Using an LED etc
-Using an LED
+# Using an LED
 
 ```
 void setup() {
