@@ -2,6 +2,13 @@
 
 ![alt text](fan-speed-controller.png "Fan Speed Controller Circuit")
 
+## Required Kit Components
+| Part          | Quantity        |
+| ------------- |:-------------:|
+| LED	        | 1 |
+| Resistor      | 1|
+| Jumper Wires | 2      |
+
 ## Code
 ```
 const int POT_PIN = A0;
