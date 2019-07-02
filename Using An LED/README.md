@@ -2,6 +2,7 @@
 
 ![alt text](LED.png "Using An LED Circuit")
 
+## Code
 ```
 void setup() {
   pinMode(13, OUTPUT);

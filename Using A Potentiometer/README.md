@@ -2,6 +2,7 @@
 
 ![alt text](using-a-potentiometer.png "Using A Potentiometer Circuit")
 
+## Code
 ```
 int sensorPin = A0;
 int ledPin = 13;

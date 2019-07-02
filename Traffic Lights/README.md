@@ -2,6 +2,7 @@
 
 ![alt text](traffic-lights.png "Traffic Light Circuit")
 
+## Code
 ```
 Traffic Light
 
