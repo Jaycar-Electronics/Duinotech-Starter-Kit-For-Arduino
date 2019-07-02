@@ -10,8 +10,7 @@
 | Jumper Wires	| 4     		|
 
 ## Code
-```
-Traffic Light
+```c
 
 int GREEN = 2;
 int YELLOW = 3;
