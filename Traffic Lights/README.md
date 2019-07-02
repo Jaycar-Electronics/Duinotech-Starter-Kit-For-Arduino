@@ -2,6 +2,13 @@
 
 ![alt text](traffic-lights.png "Traffic Light Circuit")
 
+## Required Kit Components
+| Part          | Quantity  		|
+| ------------- |:---------------------:|
+| LEDs		| 3 (green/red/yellow)	|
+| Resistors	| 3			|
+| Jumper Wires	| 4     		|
+
 ## Code
 ```
 Traffic Light

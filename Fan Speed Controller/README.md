@@ -3,11 +3,11 @@
 ![alt text](fan-speed-controller.png "Fan Speed Controller Circuit")
 
 ## Required Kit Components
-| Part          | Quantity        |
+| Part          | Quantity  	|
 | ------------- |:-------------:|
-| LED	        | 1 |
-| Resistor      | 1|
-| Jumper Wires | 2      |
+| Potentiometer	| 1 		|
+| Motor		| 1		|
+| Jumper Wires	| 5     	|
 
 ## Code
 ```

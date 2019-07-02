@@ -2,6 +2,12 @@
 
 ![alt text](using-a-potentiometer.png "Using A Potentiometer Circuit")
 
+## Required Kit Components
+| Part          | Quantity  	|
+| ------------- |:-------------:|
+| Potentiometer	| 1 		|
+| Jumper Wires	| 6     	|
+
 ## Code
 ```
 int sensorPin = A0;

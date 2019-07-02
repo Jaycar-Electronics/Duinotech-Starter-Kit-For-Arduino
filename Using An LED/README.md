@@ -2,6 +2,13 @@
 
 ![alt text](LED.png "Using An LED Circuit")
 
+## Required Kit Components
+| Part          | Quantity  	|
+| ------------- |:-------------:|
+| LED		| 1 		|
+| Resistor	| 1		|
+| Jumper Wires	| 2     	|
+
 ## Code
 ```
 void setup() {
