@@ -1,5 +1,7 @@
 # Using an LED
 
+![alt text](LED.png "Using An LED Circuit")
+
 ```
 void setup() {
   pinMode(13, OUTPUT);

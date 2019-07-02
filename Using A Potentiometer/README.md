@@ -1,5 +1,6 @@
 # Using a Potentiometer
-Arduino Start Kit Projects
+
+![alt text](using-a-potentiometer.png "Using A Potentiometer Circuit")
 
 ```
 int sensorPin = A0;

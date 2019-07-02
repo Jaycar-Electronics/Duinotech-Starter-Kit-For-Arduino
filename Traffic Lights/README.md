@@ -1,5 +1,7 @@
 # Traffic Lights
-Arduino Start Kit Projects
+
+![alt text](traffic-lights.png "Traffic Light Circuit")
+
 ```
 Traffic Light
 
