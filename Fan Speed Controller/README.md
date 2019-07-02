@@ -1,5 +1,6 @@
 # Fan Speed Controller
 Arduino Start Kit Projects
+![alt text](fan-speed-controller.png "Fan Speed Controller Circuit")
 ```
 const int POT_PIN = A0;
 const int MOTOR_PIN = 9;
