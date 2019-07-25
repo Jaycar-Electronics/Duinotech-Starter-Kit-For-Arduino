@@ -1,2 +1,2 @@
 # Arduino-Starter-Kit
-Arduino Start Kit Projects
+Arduino Starter Kit Projects
