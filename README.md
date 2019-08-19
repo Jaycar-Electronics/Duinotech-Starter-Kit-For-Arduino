@@ -13,7 +13,7 @@ This entry level kit contains the basics you'll need to get started in the world
 The duinotech Uno is an open source single-board controller capable of controlling multiple input and output devices.
 
 ### USB Cable
-![alt text](usb-cable.jpg "USB Cable")
+![alt text](images/usb-cable.jpg "USB Cable")
 
 You'll need this to connect your Uno to your computer to power and load code onto the board.
 
