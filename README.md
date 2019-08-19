@@ -7,10 +7,15 @@ This entry level kit contains the basics you'll need to get started in the world
 
 ## What's Included
 
-### Uno Board
-![alt text](images/uno-board.jpg "Uno Board")
+| Part          | Image | Description  		|
+| ------------- | ------------- |:---------------------:|
+| Uno Board | ![alt text](images/uno-board.jpg "Uno Board") | The duinotech Uno is an open source single-board controller capable of controlling multiple input and output devices. |
 
-The duinotech Uno is an open source single-board controller capable of controlling multiple input and output devices.
+
+### 
+
+
+
 
 ### USB Cable
 ![alt text](images/usb-cable.jpg "USB Cable")
