@@ -1,4 +1,7 @@
 # Using Buttons
+
+Use feedback from an analogue sensor to activate a buzzer via the Arduino board.
+
 ![alt text](button-buzz.png "Using Buttons Circuit")
 
 ## Required Kit Components

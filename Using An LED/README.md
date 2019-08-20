@@ -1,5 +1,7 @@
 # Using an LED
 
+This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED.
+
 ![alt text](LED.png "Using An LED Circuit")
 
 ## Required Kit Components

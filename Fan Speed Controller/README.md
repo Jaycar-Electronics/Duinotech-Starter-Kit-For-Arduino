@@ -1,5 +1,7 @@
 # Fan Speed Controller
 
+Use variable feedback from a potentiometer to adjust the speed of the motor.
+
 ![alt text](fan-speed-controller.png "Fan Speed Controller Circuit")
 
 ## Required Kit Components

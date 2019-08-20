@@ -1,5 +1,7 @@
 # Traffic Lights
 
+Simulate traffic lights using multiple LEDs & a loop circuit in Arduino.
+
 ![alt text](traffic-lights.png "Traffic Light Circuit")
 
 ## Required Kit Components

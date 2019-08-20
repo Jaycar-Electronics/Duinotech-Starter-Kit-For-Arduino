@@ -1,5 +1,7 @@
 # Using a Potentiometer
 
+Use a potentiometer to adjust the brightness of the in-built LED on the Arduino Uno.
+
 ![alt text](using-a-potentiometer.png "Using A Potentiometer Circuit")
 
 ## Required Kit Components
