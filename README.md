@@ -57,7 +57,7 @@ The example projects in this kit are free of errors, however, if you write your 
 Now that you have the Arduino IDE setup and ready to use you can begin working through our beginner projects.
 
 | Project          | Outcome |
-| ------------- |:---------------------:|
+| ------------- |---------------------|
 | [Using an LED](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Using%20An%20LED) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
 | [Using a Potentiometer](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Using%20A%20Potentiometer) | Use a potentiometer to adjust the brightness of the in-built LED on the Arduino Uno. |
 | [Using Buttons](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Using%20Buttons) | Use feedback from an analogue sensor to activate a buzzer via the Arduino board. |
