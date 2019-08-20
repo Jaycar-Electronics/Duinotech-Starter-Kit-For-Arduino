@@ -19,3 +19,12 @@ This entry level kit contains the basics you'll need to get started in the world
 | ![alt text](images/resistors.jpg "Resistors") | Resistors | A resistor is an electrical component that limits or regulates the flow of electrical current in an electronic circuit. |
 | ![alt text](images/potentiometer.jpg "Potentiometer") | Potentiometer | A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. Where only two pins are used, it becomes a variable resistor. |
 | ![alt text](images/buzzer.jpg "Buzzer") | Buzzer | A buzzer is an electrical device that makes a buzzing noise and is used for signaling. |
+
+## Projects
+| Project          | Outcome | Link  		|
+| ------------- | ------------- |:---------------------:|
+| Using an LED | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. | [Project #1](/Using An LED) |
+| Using a Potentiometer | Use a potentiometer to adjust the brightness of the in-built LED on the Arduino Uno. |  |
+| Using Buttons | Use feedback from an analogue sensor to activate a buzzer via the Arduino board. |  |
+| Fan Speed Controller | Use variable feedback from a potentiometer to adjust the speed of the motor. |  |
+| Traffic Lights | Simulate traffic lights using multiple LEDs & a loop circuit in Arduino. |  |
