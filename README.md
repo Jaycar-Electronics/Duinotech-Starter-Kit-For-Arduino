@@ -8,7 +8,7 @@ Arduino refers to an open-source electronics platform or board and the software 
 ## What's Included
 
 | Part          | Image | Description  		|
-| ------------- | ------------- |:---------------------:|
+| ------------- | ------------- |---------------------|
 | ![alt text](images/uno-board.jpg "Uno Board") | Uno Board | The duinotech Uno is an open source single-board controller capable of controlling multiple input and output devices. |
 | ![alt text](images/usb-cable.jpg "USB Cable") | USB Cable | You'll need this to connect your Uno to your computer to power and load code onto the board. |
 | ![alt text](images/breadboard.jpg "Breadboard") | Breadboard | Breadboards are handy boards used for testing circuit designs. With multiple pins you can easily connect multiple sensors, switches and LEDs. |
