@@ -22,7 +22,7 @@ This entry level kit contains the basics you'll need to get started in the world
 
 ## Projects
 | Project          | Outcome |
-| ------------- | ------------- |:---------------------:|
+| ------------- |:---------------------:|
 | [Using an LED](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Using%20An%20LED) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
 | [Using a Potentiometer](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Using%20A%20Potentiometer) | Use a potentiometer to adjust the brightness of the in-built LED on the Arduino Uno. |
 | [Using Buttons](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Using%20Buttons) | Use feedback from an analogue sensor to activate a buzzer via the Arduino board. |
