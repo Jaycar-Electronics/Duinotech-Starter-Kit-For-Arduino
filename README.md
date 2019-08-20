@@ -21,7 +21,7 @@ This entry level kit contains the basics you'll need to get started in the world
 | ![alt text](images/buzzer.jpg "Buzzer") | Buzzer | A buzzer is an electrical device that makes a buzzing noise and is used for signaling. |
 
 ## Projects
-| Link          | Project | Outcome  		|
+| Project          | Outcome |
 | ------------- | ------------- |:---------------------:|
 | [Using an LED](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Using%20An%20LED) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
 | [Using a Potentiometer](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Using%20A%20Potentiometer) | Use a potentiometer to adjust the brightness of the in-built LED on the Arduino Uno. |
