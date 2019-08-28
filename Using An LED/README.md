@@ -12,14 +12,18 @@ This basic project will introduce the beginner Arduino user to simple code & cir
 | Jumper Wires	| 2     	|
 
 ## Code
-```
-void setup() {
-  pinMode(13, OUTPUT);
+```cpp
+void setup()					// Runs once when sketch starts
+
+{
+  pinMode(13, OUTPUT);		// Setting the LED pin as an output
 }
-void loop() {
-  digitalWrite(13, HIGH);   
-  delay(1000);              
-  digitalWrite(13, LOW);   
-  delay(1000);             
+
+void loop()					// Runs repeatedly
+{
+  digitalWrite(13, HIGH);   // Turning the LED on
+  delay(1000);              // Waiting 1 second
+  digitalWrite(13, LOW);    // Turning the LED off
+  delay(1000);             	// Waiting 1 second
 }
 ```
