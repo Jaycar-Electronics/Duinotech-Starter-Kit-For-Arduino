@@ -28,12 +28,12 @@ void setup()					// Runs once when sketch starts
 
 void loop()					// Runs repeatedly
 {
-  Val = digitalRead(Button);	// Setting the Val variable to the output of the
+  Val = digitalRead(Button);			// Setting the Val variable to the output of the
 						// button, which can be either HIGH or LOW
-  if (Val == LOW) {		// Statement to determine the state of the button
-    digitalWrite(Buzzer, HIGH); // If the button is pressed, the buzzer will sound
+  if (Val == LOW) {				// Statement to determine the state of the button
+    digitalWrite(Buzzer, HIGH); 		// If the button is pressed, the buzzer will sound
   } else {
-    digitalWrite(Buzzer, LOW); // Else, the buzzer will not sound
+    digitalWrite(Buzzer, LOW); 		// Else, the buzzer will not sound
   }
 }
 ```
