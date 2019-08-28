@@ -16,8 +16,8 @@ Use variable feedback from a potentiometer to adjust the speed of the motor.
 						// Setting variables which can be easily called to later
 int POT_PIN = A0;				// Input pin from the potentiometer
 int MOTOR_PIN = 9;				// Output pin to the motor
-int motorSpeed = 0;				// Setting a variable to store the resulting motor speed value
-int potVal = 0;					// Setting a variable to store the resulting potentiometer value
+int motorSpeed = 0;				// A variable to store the resulting motor speed value
+int potVal = 0;					// A variable to store the resulting potentiometer value
 
 void setup()					// Runs once when sketch starts
 {
