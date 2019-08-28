@@ -49,7 +49,7 @@ Select the serial device of the board from the Tools | Serial Port menu. This is
 #### Uploading Code
 Now, simply click the "Upload" button in the environment. Wait a few seconds - you should see the RX and TX LEDs on the board flashing. If the upload is successful, the message "Done uploading." will appear in the status bar. 
 
-![alt text](images/uploading-code.png "Uploading Code")
+![alt text](images/uploading.png "Uploading Code")
 
 The example projects in this kit are free of errors, however, if you write your own code you may find an error when uploading your code. The software will show a message indicating the type of error and the location in which it appears in the code.
 
