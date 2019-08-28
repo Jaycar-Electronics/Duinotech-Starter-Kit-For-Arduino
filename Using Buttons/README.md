@@ -33,7 +33,7 @@ void loop()					// Runs repeatedly
   if (Val == LOW) {				// Statement to determine the state of the button
     digitalWrite(Buzzer, HIGH); 		// If the button is pressed, the buzzer will sound
   } else {
-    digitalWrite(Buzzer, LOW); 		// Else, the buzzer will not sound
+    digitalWrite(Buzzer, LOW); 			// Else, the buzzer will not sound
   }
 }
 ```
