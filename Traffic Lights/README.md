@@ -30,7 +30,7 @@ void setup()					// Runs once when sketch starts
 
 void loop()					// Runs repeatedly
 {
-  green_light();			// Running each function followed by a delay set by variables
+  green_light();				// Running each function followed by a delay set by variables
   delay(DELAY_GREEN);
   yellow_light();
   delay(DELAY_YELLOW);
