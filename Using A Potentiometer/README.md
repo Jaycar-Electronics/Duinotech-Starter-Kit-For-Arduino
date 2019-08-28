@@ -24,8 +24,8 @@ void setup() {
 void loop() {
   potVal = analogRead(potPin);			// Setting the potVal variable to the reading from the potPin
   digitalWrite(ledPin, HIGH);			// Turning the LED pin on
-  delay(potVal);					// Delay based off the potentiometer value
+  delay(potVal);				// Delay based off the potentiometer value
   digitalWrite(ledPin, LOW);			// Turning the LED pin off
-  delay(potVal);					// Delay based off the potentiometer value
+  delay(potVal);				// Delay based off the potentiometer value
 }
 ```
