@@ -17,11 +17,13 @@ int potPin = A0;				// Input pin from the potentiometer
 int ledPin = 13;				// Output pin to the LED
 int potVal = 0;					// A variable to store the potentiometer value
 
-void setup() {
+void setup()					// Runs once when sketch start
+{
   pinMode(ledPin, OUTPUT);			// Setting the LED pin as an output	
 }
 
-void loop() {
+void loop()					// Runs repeatedly
+{
   potVal = analogRead(potPin);			// Setting the potVal variable to the reading from the potPin
   digitalWrite(ledPin, HIGH);			// Turning the LED pin on
   delay(potVal);				// Delay based off the potentiometer value
