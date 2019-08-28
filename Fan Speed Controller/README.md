@@ -26,10 +26,9 @@ void setup()					// Runs once when sketch starts
 
 void loop()					// Runs repeatedly
 {
-  potVal = analogRead(POT_PIN);			// Setting the potVal variable to the reading from the POT_PIN (potentiometer input pin)
-
-  motorSpeed = map(potVal, 0, 1023, 0, 255);	// Setting the motorSpeed variable to an equivalent variable between 0 & 255, based off the potVal which is between 0 & 1023
-
+  potVal = analogRead(POT_PIN);			// Setting the potVal variable to the reading from the POT_PIN
+  motorSpeed = map(potVal, 0, 1023, 0, 255);	// Setting the motorSpeed variable to an equivalent
+												// variable between 0 & 255, based off the potVal which is between 0 & 1023
   analogWrite(MOTOR_PIN, motorSpeed);		// Writing the mapped value to the motorSpeed pin
 }
 ```
