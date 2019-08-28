@@ -58,8 +58,8 @@ Now that you have the Arduino IDE setup and ready to use you can begin working t
 
 | Project          | Outcome |
 | ------------- |---------------------|
-| [Using an LED](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Using%20An%20LED) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
-| [Using a Potentiometer](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Using%20A%20Potentiometer) | Use a potentiometer to adjust the brightness of the in-built LED on the Arduino Uno. |
-| [Using Buttons](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Using%20Buttons) | Use feedback from an analogue sensor to activate a buzzer via the Arduino board. |
-| [Fan Speed Controller](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Fan%20Speed%20Controller) | Use variable feedback from a potentiometer to adjust the speed of the motor. |
-| [Traffic Lights](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/Traffic%20Lights) | Simulate traffic lights using multiple LEDs & a loop circuit in Arduino. |
+| [Using an LED](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/1%20Using%20An%20LED) | This basic project will introduce the beginner Arduino user to simple code & circuits by turning on & off an LED. |
+| [Using a Potentiometer](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/2%20Using%20A%20Potentiometer) | Use a potentiometer to adjust the brightness of the in-built LED on the Arduino Uno. |
+| [Using Buttons](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/3%20Using%20Buttons) | Use feedback from an analogue sensor to activate a buzzer via the Arduino board. |
+| [Fan Speed Controller](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/4%20Fan%20Speed%20Controller) | Use variable feedback from a potentiometer to adjust the speed of the motor. |
+| [Traffic Lights](https://github.com/Jaycar-Electronics/Arduino-Starter-Kit/tree/master/5%20Traffic%20Lights) | Simulate traffic lights using multiple LEDs & a loop circuit in Arduino. |
