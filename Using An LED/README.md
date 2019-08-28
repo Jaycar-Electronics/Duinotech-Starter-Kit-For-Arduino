@@ -22,8 +22,8 @@ void setup()					// Runs once when sketch starts
 void loop()					// Runs repeatedly
 {
   digitalWrite(13, HIGH);			// Turning the LED on
-  delay(1000);              		// Waiting 1 second
-  digitalWrite(13, LOW);    		// Turning the LED off
+  delay(1000);              			// Waiting 1 second
+  digitalWrite(13, LOW);    			// Turning the LED off
   delay(1000);             			// Waiting 1 second
 }
 ```
