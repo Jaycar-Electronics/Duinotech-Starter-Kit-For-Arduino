@@ -20,8 +20,8 @@ int motorSpeed = 0;				// A variable to store the motor speed value
 int potVal = 0;					// A variable to store the potentiometer value
 
 void setup()					// Runs once when sketch starts
-{
-  pinMode(MOTOR_PIN, OUTPUT);			// Setting the pin type & defining the I/O
+{						// Setting the pin type & defining the I/O
+  pinMode(MOTOR_PIN, OUTPUT);	// Setting the motor pin as an output	
 }
 
 void loop()					// Runs repeatedly
