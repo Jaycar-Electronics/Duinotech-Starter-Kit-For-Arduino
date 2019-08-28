@@ -11,20 +11,21 @@ Use a potentiometer to adjust the brightness of the in-built LED on the Arduino 
 | Jumper Wires	| 6     	|
 
 ## Code
-```
-int sensorPin = A0;
-int ledPin = 13;
-int sensorValue = 0;
+```cpp
+						// Setting variables which can be easily called to later
+int potPin = A0;				// Input pin from the potentiometer
+int ledPin = 13;				// Output pin to the LED
+int potVal = 0;			// A variable to store the potentiometer value
 
 void setup() {
-  pinMode(ledPin, OUTPUT);
+  pinMode(ledPin, OUTPUT);			// Setting the LED pin as an output	
 }
 
 void loop() {
-  sensorValue = analogRead(sensorPin);
-  digitalWrite(ledPin, HIGH);
-  delay(sensorValue);
-  digitalWrite(ledPin, LOW);
-  delay(sensorValue);
+  potVal = analogRead(potPin);		// Setting the potVal variable to the reading from the potPin
+  digitalWrite(ledPin, HIGH);		// Turning the LED pin on
+  delay(potVal);					// Delay based off the potentiometer value
+  digitalWrite(ledPin, LOW);		// Turning the LED pin off
+  delay(potVal);					// Delay based off the potentiometer value
 }
 ```
