@@ -14,7 +14,7 @@ Use feedback from an analogue sensor to activate a buzzer via the Arduino board.
 ## Code
 ```cpp
 						// Setting variables which can be easily called to later
-  int Button = 7;				// Input pin from the button
+  int Button = 12;				// Input pin from the button
   int Buzzer = 11;				// Output pin to the buzzer
   int Val = 0;					// A variable to store the button value
 
