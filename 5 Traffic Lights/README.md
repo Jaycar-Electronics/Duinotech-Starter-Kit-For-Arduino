@@ -15,7 +15,7 @@ Simulate traffic lights using multiple LEDs & a loop circuit in Arduino.
 ## Code
 
 ```cpp
-            // Setting variables which can be easily called to later
+// Setting variables which can be easily called to later
 int GREEN = 8;          // Setting the pins from the LEDs
 int YELLOW = 9;
 int RED = 10;
