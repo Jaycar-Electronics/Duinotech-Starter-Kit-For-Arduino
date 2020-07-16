@@ -37,7 +37,7 @@ void loop()          // Runs repeatedly
   //"map" the brightness, so that potval (0->1023)
   // corresponds with a value between (0->255)
 
-  brightness = map(potval, 0, 1023, 0, 255);
+  brightness = map(potVal , 0, 1023, 0, 255);
 
   //analog write uses PWM to control the brightness of the LED.
   // it will only work on the PWM pins, which pin 9 is.
