@@ -1,4 +1,4 @@
-# Arduino Starter Kit
+# Duinotech Starter Kit For Arduino
 
 This entry level kit contains the basics you'll need to get started in the world of Arduino & features projects that set the foundations for putting your own ideas into action.
 
