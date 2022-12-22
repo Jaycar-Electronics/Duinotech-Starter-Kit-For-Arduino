@@ -16,9 +16,9 @@ Simulate traffic lights using multiple LEDs & a loop circuit in Arduino.
 
 ```cpp
 // Setting variables which can be easily called to later
-int GREEN = 8;          // Setting the pins from the LEDs
+int GREEN = 10;          // Setting the pins from the LEDs
 int YELLOW = 9;
-int RED = 10;
+int RED = 8;
 int DELAY_GREEN = 5000;        // Setting variables for delays that can be adjusted
 int DELAY_YELLOW = 2000;      // without altering each function
 int DELAY_RED = 5000;
